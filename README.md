@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://cdn.modeminc.com/mita/MitaBanner.png" alt="MITA Banner" width="800"/>
+<img src="https://cdn.modeminc.com/mita/MITABanner.png" alt="MITA Banner" width="800"/>
   
 **Modeminc Intelligence Threat Agency**
 
