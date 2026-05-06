@@ -1,8 +1,6 @@
 <div align="center">
   
-<img src="https://cdn.modeminc.com/mita/MITABanner.png" alt="MITA Banner" width="800"/>
-  
-**Modeminc Intelligence Threat Agency**
+<img src="https://cdn.modeminc.com/mguard/MGuardBanner.png" alt="MGuard Banner" width="800"/>
 
 *Your network sees everything.*
 
@@ -10,9 +8,9 @@
 
 ---
 
-## What is MITA?
+## What is MGuard?
 
-MITA is a **lightweight network intelligence agent** that deploys in seconds. It continuously scans your LAN and WAN, assigns every discovered IP an evidence-based threat score from 0–100, and alerts you before an intrusion becomes a breach.
+MGuard is a **lightweight network intelligence agent** that deploys in seconds. It continuously scans your LAN and WAN, assigns every discovered IP an evidence-based threat score from 0–100, and alerts you before an intrusion becomes a breach.
 
 ---
 
@@ -23,19 +21,19 @@ MITA is a **lightweight network intelligence agent** that deploys in seconds. It
 Download the agent directly:
 
 ```
-https://cdn.modeminc.com/mita/MITA_Agent.exe
+https://cdn.modeminc.com/MGuard/MGuard_Agent.exe
 ```
 
 Or use the install script:
 
 ```sh
-curl -sSL https://cdn.modeminc.com/mita/MITA_Install.sh | sh
+curl -sSL https://cdn.modeminc.com/MGuard/MGuard_Install.sh | sh
 ```
 
 Run the agent:
 
 ```sh
-MITA_Agent.exe
+MGuard_Agent.exe
 ```
 
 > Linux, macOS, and Docker support are coming soon.
@@ -78,14 +76,14 @@ Scores are computed from:
 
 ## WAN Monitoring Note
 
-For full WAN visibility, MITA needs access to router or firewall logs. The agent can ingest:
+For full WAN visibility, MGuard needs access to router or firewall logs. The agent can ingest:
 
 - **Syslog** forwarded from your router/firewall
 - **Firewall logs** (pfSense, OPNsense, iptables, Windows Firewall)
 
-Without log forwarding, MITA still monitors traffic visible to the host machine it runs on. Full perimeter coverage requires log integration.
+Without log forwarding, MGuard still monitors traffic visible to the host machine it runs on. Full perimeter coverage requires log integration.
 
-For more information, visit [modeminc.com/mita/help](https://modeminc.com/mita/help).
+For more information, visit [modeminc.com/MGuard/help](https://modeminc.com/MGuard/help).
 
 ---
 
@@ -133,6 +131,6 @@ MIT - see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-Built by **[Modeminc](https://modeminc.com)** · [Website](https://modeminc.com/mita) · [Help/Docs](https://modeminc.com/mita/help) · [Download](https://cdn.modeminc.com/mita/MITA_Agent.exe)
+Built by **[Modeminc](https://modeminc.com)** · [Website](https://modeminc.com/MGuard) · [Help/Docs](https://modeminc.com/MGuard/help) · [Download](https://cdn.modeminc.com/MGuard/MGuard_Agent.exe)
 
 </div>
