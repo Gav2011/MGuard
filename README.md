@@ -2,11 +2,9 @@
   
 <img src="https://cdn.modeminc.com/mguard/MGuardBanner.png" alt="MGuard Banner" width="800"/>
 
-*MGaurd*
+# MGaurd
 
 </div>
-
----
 
 ## What is MGuard?
 
